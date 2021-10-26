@@ -10,10 +10,11 @@
   </em>
 </p>
 
-- 🔭 I'm currently working with web development
-- 🌱 I'm currently learning Reactjs
-- 🤔 I’m looking for help with ...
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I'm currently working with web development
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I'm currently learning Reactjs💪.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I'm looking for help with a job as a web developer👨‍💻
 - 📫 Contact me on email: joaquimmulazadev@gmail.com
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
 ##
 <div align="center">
   <a href="https://github.com/joaquimmulaza">
