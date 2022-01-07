@@ -41,7 +41,7 @@
   <img align="center" alt="Joaquim-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
   
-  <img align="right" alt="Joaquim-pic" height="170" style="border-radius:50px;" src="https://scontent.flad4-1.fna.fbcdn.net/v/t1.15752-9/249326681_1113795399156757_8137870269882772426_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeFh4iMY8V9A_FtsMq0NSt9XoHYzZ-2wBBagdjNn7bAEFs7iIcM7W9UVstq9w-Kr6SHTIM22QofQjZY0omm_Huir&_nc_ohc=9EDhDnDRfXEAX_MlQPI&_nc_ht=scontent.flad4-1.fna&oh=6c90248d3e868a2b8d2d888ba488e819&oe=619E14CE">
+  <img align="right" alt="Joaquim-pic" height="170" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71206707/148536881-8ba5eb7f-2375-4a32-9a8d-bc00002cf6e2.png">
 </div>
   
 ##
