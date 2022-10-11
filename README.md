@@ -48,7 +48,7 @@
   
 <div>
   <a href="https://www.linkedin.com/in/joaquim-joão-josé-mulaza-309a431a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UC8dVxkHlwjOs_cI6P7fHuGg" target="_blank"><img src="https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC8dVxkHlwjOs_cI6P7fHuGg" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaquimmulazadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
