@@ -14,7 +14,6 @@
 
 - I'm currently working with web development
 - I'm currently learning Reactjs💪.
-- I'm looking for help with a job as a web developer👨‍💻
 - *Ask me* about **why do I think aliens 👽 exist.**
 ##
 <div align="center">
