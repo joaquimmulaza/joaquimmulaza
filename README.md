@@ -8,7 +8,7 @@
 
 <p>
   <em>
-    I´m a budding <b>Web Developer</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> and a <b>Design Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="40px"> who is <b>obsessed</b> with the idea of <b>improving</b> himself and to want a <b>platform</b> to <b>grow</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and <b>excel.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    I´m a budding <b>Web Developer</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> and a <b>Design Enthusiast,</b>&nbsp; who is <b>obsessed</b> with the idea of <b>improving</b> himself and to want a <b>platform</b> to <b>grow</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and <b>excel.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>
 </p>
 
@@ -46,7 +46,7 @@
   
 <div>
   <a href="https://www.linkedin.com/in/joaquim-joão-josé-mulaza-309a431a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UC8dVxkHlwjOs_cI6P7fHuGg" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/JoaquimMulaza" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaquimmulazadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
