@@ -14,7 +14,7 @@
 
 - I'm currently working with web development
 - I'm currently learning Reactjs💪.
-- *Ask me* about **why do I think aliens 👽 exist.**
+ 
 ##
 <div align="center">
   <a href="https://github.com/joaquimmulaza">
